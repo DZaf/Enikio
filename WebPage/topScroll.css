@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Σεπ 2017, 7:25:01 μμ
+    Author     : zogas
+*/
+
+#topBtn {
+                display: none;
+                position: fixed;
+                bottom: 20px;
+                right: 30px;
+                z-index: 99;
+                border: none;
+                outline: none;
+                background-color: #ff5a5f;
+                color: white;
+                cursor: pointer;
+                padding-top: 11px ;
+                padding-left: 14px;
+                padding-right: 14px;
+                padding-bottom: 6px ;
+                border-radius: 5px;
+            }
+
+            #topBtn:hover {
+                background-color: #555;
+            }
+            
+            #contactBtn {
+                display: none;
+                position: fixed;
+                bottom: 20px;
+                right: 90px;
+                z-index: 99;
+                border: none;
+                outline: none;
+                background-color: #ff5a5f;
+                color: white;
+                cursor: pointer;
+                padding-top: 11px ;
+                padding-left: 14px;
+                padding-right: 14px;
+                padding-bottom: 6px ;
+                border-radius: 5px;
+            }
+
+            #contactBtn:hover {
+                background-color: #555;
+            }

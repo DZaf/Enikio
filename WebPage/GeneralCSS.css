@@ -1,0 +1,181 @@
+.container-foto
+                {
+                    background-image: url("2.jpg");
+                    background-repeat: no-repeat;
+                    background-attachment: fixed;
+                    background-position: top;
+                    background-position-y: -10px;
+                }
+                body{
+                    font-family: 'Poppins', sans-serif;
+                    background-color:whitesmoke;
+                }
+
+                label{
+                    font-weight: normal;
+                    font-size:15px;
+                }
+                @media (max-width: 768px) {
+                    .login-modal-content{
+                        width: 100%;
+                    }
+                    .report-modal-content{
+                        width: 100%;
+                    }
+                    .contact-modal-content{
+                        width: 100%;
+                    }
+                    #qiuckSearchSubmit{
+                        margin-top: -10px;
+                    }
+
+                }
+
+                @media (min-width: 768px) {
+                    .login-modal-content{
+                        width: 50%;
+                    }
+                    .report-modal-content{
+                        width: 70%;
+                    }
+                    .contact-modal-content{
+                        width: 50%;
+                    }
+                    #qiuckSearchSubmit{
+                        margin-top: 5px;
+                    }
+                }
+                
+                #myFooter {
+	background-color: #333333;
+	color:white;
+}
+
+#myFooter .footer-copyright{
+	background-color: #383737;
+	padding-top:3px;
+	padding-bottom:3px;
+	text-align: center;
+}
+
+#myFooter .footer-copyright p{
+	margin:10px;
+	color: #ccc;
+}
+
+#myFooter ul{
+	list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+
+}
+
+#myFooter h5{
+	font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a{
+	color:#d2d1d1;
+	text-decoration: none;
+}
+
+#myFooter a:hover, #myFooter a:focus{
+	text-decoration: none;
+	color:white;
+}
+
+#myFooter .myCols{
+	text-align: center;
+}
+
+#myFooter .social-networks{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+
+#myFooter .social-networks a{
+    font-size: 32px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover{
+	text-decoration: none;
+
+}
+
+#myFooter .facebook:hover{
+	color:#4267B2;
+}
+
+#myFooter .google:hover{
+	color:#DB4539;
+}
+
+#myFooter .twitter:hover{
+	color: #00aced;
+}
+
+@media screen and (max-width: 767px){
+	#myFooter {
+		text-align: center;
+	}
+}
+
+
+#myFooter{
+	flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+}
+
+
+#topBtn {
+                display: none;
+                position: fixed;
+                bottom: 20px;
+                right: 30px;
+                z-index: 99;
+                border: none;
+                outline: none;
+                background-color: #ff5a5f;
+                color: white;
+                cursor: pointer;
+                padding-top: 11px ;
+                padding-left: 14px;
+                padding-right: 14px;
+                padding-bottom: 6px ;
+                border-radius: 5px;
+            }
+
+            #topBtn:hover {
+                background-color: #555;
+            }
+            
+            #contactBtn {
+                display: none;
+                position: fixed;
+                bottom: 20px;
+                right: 90px;
+                z-index: 99;
+                border: none;
+                outline: none;
+                background-color: #ff5a5f;
+                color: white;
+                cursor: pointer;
+                padding-top: 11px ;
+                padding-left: 14px;
+                padding-right: 14px;
+                padding-bottom: 6px ;
+                border-radius: 5px;
+            }
+
+            #contactBtn:hover {
+                background-color: #555;
+            }
