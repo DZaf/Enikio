@@ -16,20 +16,13 @@
   - Προσθήκη αγγελιών στα αγαπημένα
   - Αναφορά αγγελιών με λανθασμένο ή προσβλητικό περιεχόμενο
 
-# Παρουσίαση της πλατφόρμας
+# Γνώσεις που αποκτήθηκαν
 
-### Αρχική οθόνη
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/home.png)
-### Εγγραφή
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/register.png)
-### Προσθήκη νέας αγγελίας
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/new_add.png)
-### Προβολή αγγελίας
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/add_view.png)
-### Αποτελέσματα αναζήτησης
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/search.png)
-### Αγαπημένα
-![N|Solid](http://zogasmybio.000webhostapp.com/Screenshots/enoikio_screenshots/favorites.png)
+  - Η σχεδίαση και η δημιουργία μιας σχεσιακής βάσης δεδομένων που θα καλύπτει όλες τις λειτουργικές και μή λειτουργικές απαιτήσεις του συστήματος
+  - Δημιουργία API σε γλώσσα PHP
+  - Η χρήση HTML5,CSS,Javascript,JQuery και Ajax για τον σχεδιασμό και την λειτουργία του Frontend
+  
+# Co-Creators
 
-# Link ιστοτόπου
-https://enoikioalpha.000webhostapp.com/index.php
+  -[Γεώργιος Ζώγας](https://github.com/gzogas)
+  -[Χαλβατζάκης Νικόλαος](https://github.com/NickCh1996)
