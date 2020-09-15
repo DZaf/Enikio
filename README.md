@@ -36,7 +36,7 @@ The features provided by the platform to this category of users are as follows:
   - View ads that are already uploaded
   - Management and editing of existing ads
   
-### Category 2 (Users who are interested in buying / renting real estate)
+### Category 2 (Users who are interested in buying/renting real estate)
   - Registration in the system
   - Search ads based on the features they want
   - Add ads to favorites
